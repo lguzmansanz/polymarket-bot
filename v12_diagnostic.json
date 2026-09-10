@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-10T03:03:29.415291+00:00",
+  "configuration": "V1.2 source defaults; .env not loaded",
+  "fetched": 100,
+  "eligible_before_top25": 0,
+  "reasons": {
+    "liquidity": 81,
+    "volume24h": 19
+  },
+  "samples": [],
+  "diagnosis": "First page sorted by endDate; short local momentum is still required (8 observations, 0.004 absolute rise); 1h only ranks and 1d not used; no evidence that zero positions means healthy selection."
+}
